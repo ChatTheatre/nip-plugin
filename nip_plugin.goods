@@ -1,0 +1,10 @@
+{
+    "name": "NIP Plugin",
+    "git": {
+        "url": "https://github.com/saraht45/nip_plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
