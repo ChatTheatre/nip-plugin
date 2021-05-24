@@ -1,4 +1,4 @@
-# nip_plugin
+# nip-plugin
 
 ### Required script spaces:
 
