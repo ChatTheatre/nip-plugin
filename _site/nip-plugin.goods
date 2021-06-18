@@ -1,0 +1,11 @@
+{
+    "name": "NIP Plugin",
+    "git": {
+        "url": "https://github.com/ChatTheatre/nip-plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
+
